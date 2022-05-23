@@ -15,7 +15,7 @@ _book
 *.mobi
 *.pdf
 
-*/confng
+*/config
 /config
 # */output
 # /output
